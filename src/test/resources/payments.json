@@ -1,0 +1,93 @@
+[
+  {
+    "from": {
+      "accountNumber": "55555",
+      "bic": "11111"
+    },
+    "to": {
+      "accountNumber": "22222",
+      "bic": "22222"
+    },
+    "amount": 4,
+    "dateTime": "2023-04-13T15:57:06.707595",
+    "productCategory": "FOOD"
+  },
+  {
+    "from": {
+      "accountNumber": "55555",
+      "bic": "11111"
+    },
+    "to": {
+      "accountNumber": "22222",
+      "bic": "22222"
+    },
+    "amount": 1,
+    "dateTime": "2023-04-14T16:57:06.707595",
+    "productCategory": "FOOD"
+  },
+  {
+    "from": {
+      "accountNumber": "111111",
+      "bic": "11111"
+    },
+    "to": {
+      "accountNumber": "22222",
+      "bic": "22222"
+    },
+    "amount": 8,
+    "dateTime": "2023-04-14T17:57:06.707595",
+    "productCategory": "EDUCATION"
+  },
+  {
+    "from": {
+      "accountNumber": "55555",
+      "bic": "11111"
+    },
+    "to": {
+      "accountNumber": "22222",
+      "bic": "22222"
+    },
+    "amount": 1,
+    "dateTime": "2023-04-14T18:57:05.0",
+    "productCategory": "MEDICINE"
+  },
+  {
+    "from": {
+      "accountNumber": "111111",
+      "bic": "11111"
+    },
+    "to": {
+      "accountNumber": "22222",
+      "bic": "22222"
+    },
+    "amount": 1,
+    "dateTime": "2023-04-15T15:57:06.707595",
+    "productCategory": "FOOD"
+  },
+  {
+    "from": {
+      "accountNumber": "111111",
+      "bic": "11111"
+    },
+    "to": {
+      "accountNumber": "22222",
+      "bic": "22222"
+    },
+    "amount": 8,
+    "dateTime": "2023-04-18T17:57:06.707595",
+    "productCategory": "EDUCATION"
+  },
+  {
+    "from": {
+      "accountNumber": "22222",
+      "bic": "11111"
+    },
+    "to": {
+      "accountNumber": "11111",
+      "bic": "22222"
+    },
+    "amount": 8,
+    "dateTime": "2023-04-18T17:57:07.707595",
+    "productCategory": "EDUCATION"
+  }
+]
